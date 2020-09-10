@@ -1,4 +1,4 @@
-> Tipos Primitivos:
+ Tipos Primitivos:
 
 Como tipos primitivos entendemos aqueles tipos de informação mais usuais e básicos. São os habituais de outras linguagens de programação. Descreveremos algum dado para ter em conta em cada tipo.
 
