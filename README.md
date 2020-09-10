@@ -3,15 +3,15 @@ Conteúdos relacionados a P2
 
 # RoadMap
 
-[1. Tipos Primitivos](Conteudos/tiposprimitivos.md)
+[1. Tipos Primitivos](Conteúdos/tiposprimitivos.md)
 
-[2. Operadores](conteudos/operadores.md)
+[2. Operadores](Conteúdos/operadores.md)
 
-[3.Estruturas condicionais](conteudos/estruturascondicionais.md)
+[3.Estruturas condicionais](Conteúdos/estruturascondicionais.md)
 
-[4. Estruturas de repetição](conteudos/estruturasrepeticao.md)
+[4. Estruturas de repetição](Conteúdos/estruturasrepeticao.md)
 
-[5. Como receber dados do teclado - Scanner](conteudos/scanner.md)
+[5. Como receber dados do teclado - Scanner](Conteúdos/scanner.md)
 
-[6. Utilização de classes, objetos e construtores](conteudos/classesobjetosconstrutores.md)
+[6. Utilização de classes, objetos e construtores](Conteúdos/classesobjetosconstrutores.md)
 
