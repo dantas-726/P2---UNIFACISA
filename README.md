@@ -3,7 +3,7 @@ Conteúdos relacionados a P2
 
 # RoadMap
 
-[1. Tipos Primitivos](Conteudos/tiposprimitivos.md)
+[1. Tipos Primitivos](Conteudos/Createtiposprimitivos.md)
 
 [2. Operadores](conteudos/operadores.md)
 
