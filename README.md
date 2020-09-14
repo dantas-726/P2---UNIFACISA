@@ -7,7 +7,7 @@ Conteúdos relacionados a P2
 
 [2. Operadores](Conteúdos/operadores.md)
 
-[3.Estruturas condicionais](Conteúdos/estruturascondicionais.md)
+[3. Estruturas condicionais](Conteúdos/estruturascondicionais.md)
 
 [4. Estruturas de repetição](Conteúdos/estruturasrepeticao.md)
 
