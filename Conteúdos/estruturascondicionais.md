@@ -1,4 +1,4 @@
-> ESTRUTURAS CONDICIONAIS:
+# ESTRUTURAS CONDICIONAIS:
 
 Estruturas condicionais e de repetição são fundamentais para a maioria das linguagens de programação. 
 Sem elas, as instruções dos programas seriam executadas sequencialmente sem nenhum tipo de reaproveitamento ou ramificação.
