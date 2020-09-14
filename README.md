@@ -11,7 +11,7 @@ Conteúdos relacionados a P2
 
 [4. Estruturas de repetição](Conteúdos/estruturasrepeticao.md)
 
-[5. Como receber dados do teclado - Scanner](conteudosscanner.md)
+[5. Como receber dados do teclado - Scanner](scanner.md)
 
 [6. Utilização de classes, objetos e construtores](Conteúdos/classesobjetosconstrutores.md)
 
