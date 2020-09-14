@@ -1,4 +1,4 @@
-> ESTRUTURAS DE REPETIÇÃO:
+# ESTRUTURAS DE REPETIÇÃO:
 
 Assim, as estruturas de repetição que também são conhecidas como iteração, ou laços (loops), são utilizadas para executar, repetidamente, uma instrução ou um bloco 
 de instruções enquanto determinada condição estiver sendo satisfeita.
