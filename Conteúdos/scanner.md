@@ -1,4 +1,4 @@
-#Scanner
+# Scanner
 
 Para utilizar a classe Scanner em uma aplicação Java deve-se proceder da seguinte maneira:
 
